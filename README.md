@@ -5,6 +5,9 @@
 ## Friends
 ReferenceError: Friends is not defined
 
+## Coding time
+[![wakatime](https://wakatime.com/badge/user/734ef3b9-b74c-4ac3-ba32-7ba778bb8af4.svg)](https://wakatime.com/@734ef3b9-b74c-4ac3-ba32-7ba778bb8af4)
+
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
